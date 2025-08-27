@@ -44,7 +44,7 @@ User Query → Embedding → FAISS Vector Search → Retrieve Top Matches → Au
 ## Setup & Installation
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/hr-resource-chatbot.git
+git clone https://github.com/20001001054/Hr_resource-chatbot.git
 cd HR_RESOURCE
 
 
