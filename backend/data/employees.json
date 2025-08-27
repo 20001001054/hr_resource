@@ -1,0 +1,124 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Michael",
+      "skills": ["Machine Learning", "scikit-learn", "pandas"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction System"],
+      "availability": "available"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Singh",
+      "skills": ["Machine Learning", "TensorFlow", "PyTorch", "Computer Vision"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "skills": ["React Native", "JavaScript", "Node.js"],
+      "experience_years": 3,
+      "projects": ["Mobile Banking App"],
+      "availability": "busy"
+    },
+    {
+      "id": 5,
+      "name": "Priya Singh",
+      "skills": ["AWS", "Docker", "Kubernetes"],
+      "experience_years": 7,
+      "projects": ["Cloud Migration", "DevOps Automation"],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "John Carter",
+      "skills": ["Java", "Spring Boot", "Microservices"],
+      "experience_years": 8,
+      "projects": ["Payment Gateway", "Banking API"],
+      "availability": "busy"
+    },
+    {
+      "id": 7,
+      "name": "Emma Wilson",
+      "skills": ["Python", "Data Analysis", "Pandas", "SQL"],
+      "experience_years": 4,
+      "projects": ["Sales Analytics Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Ravi Kumar",
+      "skills": ["Docker", "CI/CD", "Terraform"],
+      "experience_years": 5,
+      "projects": ["Infrastructure Automation"],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Olivia Brown",
+      "skills": ["React", "Vue.js", "UI/UX"],
+      "experience_years": 3,
+      "projects": ["Healthcare Appointment App"],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "Liam Mery",
+      "skills": ["Python", "Flask", "APIs"],
+      "experience_years": 2,
+      "projects": ["Inventory Management System"],
+      "availability": "busy"
+    },
+    {
+      "id": 11,
+      "name": "Sophia Lee",
+      "skills": ["NLP", "HuggingFace Transformers", "Python"],
+      "experience_years": 5,
+      "projects": ["Chatbot for Customer Service"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Daniel Green",
+      "skills": ["C#", ".NET", "Azure"],
+      "experience_years": 6,
+      "projects": ["Hospital Management System"],
+      "availability": "busy"
+    },
+    {
+      "id": 13,
+      "name": "Isabella Garcia",
+      "skills": ["React Native", "Flutter", "Mobile Apps"],
+      "experience_years": 4,
+      "projects": ["Food Delivery App"],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Anie Nelson",
+      "skills": ["Python", "AWS", "Data Engineering"],
+      "experience_years": 5,
+      "projects": ["Data Lake for Retail"],
+      "availability": "available"
+    },
+    {
+      "id": 15,
+      "name": "Ava Taylor",
+      "skills": ["DevOps", "AWS", "Docker", "CI/CD"],
+      "experience_years": 6,
+      "projects": ["Healthcare Cloud Setup"],
+      "availability": "available"
+    }
+  ]
+}
